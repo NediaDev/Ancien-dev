@@ -1,4 +1,4 @@
-<a href="https://discord.gg/maniasky"></a>
+<a href="https://discord.gg/maniasky">Clique</a>
 
 # Ancien Dev
 
