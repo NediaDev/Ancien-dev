@@ -1,0 +1,8 @@
+fr\AtlantiCraft\core\listener\MENU\BoutiqueListener$1.class
+fr\AtlantiCraft\core\gui\GuiManager.class
+fr\AtlantiCraft\core\utils\ItemBuilder.class
+fr\AtlantiCraft\core\command\rtp\CommandRandomtp.class
+fr\AtlantiCraft\core\command\boutique\BoutiqueGui.class
+fr\AtlantiCraft\core\utils\command\iCommand.class
+fr\AtlantiCraft\core\Main.class
+fr\AtlantiCraft\core\listener\MENU\BoutiqueListener.class

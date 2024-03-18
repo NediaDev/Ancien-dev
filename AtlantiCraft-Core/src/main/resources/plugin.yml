@@ -1,0 +1,13 @@
+main: fr.AtlantiCraft.core.Main
+name: AtlantiCraft-Core
+author: Loxuh
+version: 1.0.0
+depend: [Factions, WorldEdit, Vault]
+commands:
+  randomtp:
+  poubelle:
+  vision:
+  furnace:
+  help:
+  bottlexp:
+  boutique:
