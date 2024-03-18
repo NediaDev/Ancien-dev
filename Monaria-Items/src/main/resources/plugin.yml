@@ -1,0 +1,7 @@
+name: MonariaItems
+author: Loxuh
+version: 1.0.0
+main: fr.loxuh.items.Main
+depend: [Vault]
+commands:
+  it:
