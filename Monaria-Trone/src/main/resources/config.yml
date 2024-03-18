@@ -1,0 +1,12 @@
+messages:
+  CAPTURE: "§6§lTrone §f┃ §c%PLAYER% §fvient de capturer le §b§lTrône §f!"
+  PRIVATE_CAPTURE: ""
+  SOLO: "§6§lTrone §f┃ §fVous devez être seul sur le point de capture."
+  LEAVE: "§6§lTrone §f┃ §fVous avez gagné §c%MONEY%§f$"
+
+CaptureTheTrone:
+  money: 1500
+  #Pour créer un cube, cuboid, une zone ou il faut aller
+  loc1: "world,433,73,193,0,0"
+  loc2: "world,435,73,195,0,0"
+  y: 73
