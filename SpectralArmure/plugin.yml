@@ -1,0 +1,25 @@
+name: SpectralAPIArmure
+version: 1.0.0
+main: fr.loxuh.Main
+author: Loxuh
+description: Un plugin pour donner une armure émeraude aux joueurs.
+
+commands:
+  givearmure:
+    permission: spectral.armure
+    permission-message: "§f§l» §cVous ne possédez pas la permission !"
+    description: Donne une armure émeraude au joueur.
+    usage: /givearmure
+  armurerepair:
+    description: Réparer l'armure Spectral
+    permission: spectral.armure.repair
+    permission-message: "§f§l» §cVous ne possédez pas la permission !"
+    usage: /armurerepair
+  givefarm:
+    permission: spectral.armure
+    permission-message: "§f§l» §cVous ne possédez pas la permission !"
+    usage: /givefarm
+  giveepee:
+    permission: spectral.epee
+    permission-message: "§f§l» §cVous ne possédez pas la permission !"
+    usage: /giveepee
